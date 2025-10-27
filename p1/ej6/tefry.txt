@@ -1,0 +1,12 @@
+Hijo 0 (PID 8252) - Escritura 1
+Hijo 0 (PID 8252) - Escritura 2
+Hijo 0 (PID 8252) - Escritura 3
+Hijo 1 (PID 8253) - Escritura 1
+Hijo 1 (PID 8253) - Escritura 2
+Hijo 1 (PID 8253) - Escritura 3
+Hijo 2 (PID 8254) - Escritura 1
+Hijo 2 (PID 8254) - Escritura 2
+Hijo 2 (PID 8254) - Escritura 3
+Hijo 3 (PID 8255) - Escritura 1
+Hijo 3 (PID 8255) - Escritura 2
+Hijo 3 (PID 8255) - Escritura 3
