@@ -2,10 +2,10 @@
 
 Prácticas de Sistemas operativos
 
-##Autor
+## Autor
  - Antonio Cañete López
 
-##Compilar y ejecutar
+## Compilar y ejecutar
 
 Compilación de los ejercicios 
 ```bash
